@@ -1,5 +1,5 @@
-
-[
+{
+  Pets: [
     {
       "id": 1,
       "name": "Molly",
@@ -31,3 +31,4 @@
       "weightInKg": 1.3
     }
   ]
+}   
